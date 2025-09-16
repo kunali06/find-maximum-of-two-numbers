@@ -1,1 +1,1 @@
-# find-maximum-of-two-numbers
+# find-maximum-of-two-numbers.c
